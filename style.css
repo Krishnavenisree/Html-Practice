@@ -1,0 +1,49 @@
+body{
+    background-image: url("images.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+h1{
+   border-width: 3px;
+    border-color: lightcoral;
+ background-color: lightcoral;
+    border-style: solid;
+    
+}
+h2{
+    text-align: flex;
+}
+.container{
+    font-size: x-large;
+    padding:50px;
+    display: flexbox;
+    ;
+
+    
+}
+#d{
+ border: 1px;
+ border-style: solid;
+font-size: x-large;
+border-radius: 30px;
+padding: 10px;
+}
+
+#a a{
+    
+    border: 1px;
+ border-style: solid;
+font-size: x-large;
+border-radius: 30px;
+padding: 10px;
+}
+.detail{
+    padding: 50px;
+    font-size: x-large;
+   
+    
+}
